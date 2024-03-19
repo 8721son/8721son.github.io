@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcar_docs=self.webpackChunkcar_docs||[]).push([[2624],{4456:e=>{e.exports=JSON.parse('{"permalink":"/hmk-doc/blog/tags/sample","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
